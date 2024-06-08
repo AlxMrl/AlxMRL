@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Alex! And I am a Frontend Dev
+
 <!--
 **AlxMrl/AlxMRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
